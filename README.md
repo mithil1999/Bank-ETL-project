@@ -1,1 +1,2 @@
-# Spar-Nord-Bank-ETL-project
+Observing withdrawal behaviour and the corresponding dependent factors to optimally manage the refill frequency of ATM machines of a bank. We built a batch ETL pipeline to read transactional data from RDS, transform and load it into target dimensions and facts on Redshift data mart. Analytical queries where performed to know the insights and solve business problems. Tools like Spark, Hadoop Ecosystem, AWS services where used. 
+Contains 3 PDF's(SqoopDataIngestion,RedshiftSetup,RedshiftQueries) and 1 ipynb file(SparkETLCode).
